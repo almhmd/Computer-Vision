@@ -105,8 +105,8 @@ Validation and test images are only resized and converted to tensors.
 
 | Metric              | Score |
 | ------------------- | ----- |
-| Validation Accuracy | ~92%  |
-| Test Accuracy       | ~92%  |
+| Validation Accuracy | ~99%  |
+| Test Accuracy       | ~96%  |
 
 The model successfully learns meaningful traffic sign features and performs well on unseen test data.
 
